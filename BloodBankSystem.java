@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class BloodBankSystem {
 
-    // ---------- Donor class ----------
+    // ---------- Donor class -----------
     static class Donor {
         String name;
         int age;
